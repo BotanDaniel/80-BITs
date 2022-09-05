@@ -1,6 +1,7 @@
 
 # Project Title: 80-BITs
-
+##Project status
+At the moment the project is not complete, so some features might be missing.
 ## Project description
 An 8-bit themed website that contains 4 fun, simple and minimalistic games, that are made with JavaScript
 ## Install and Run
